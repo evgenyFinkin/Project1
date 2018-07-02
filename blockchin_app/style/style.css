@@ -1,0 +1,56 @@
+
+/*bar*/
+#search-bar {
+    margin: 20px;
+    border: 1px solid black;
+    padding: 5px;
+    background: tomato;
+}
+
+#search-bar-input   {
+    margin-right: 735px;
+    display: inline-block;
+}
+/*chat*/
+#Chat    {
+    width: 500px;
+    padding: 5px;
+    border: 1px solid black;
+    background: gray;
+    float: left;
+}
+
+#Send-button    {
+    width: 200px;
+    border: 1px solid black;
+}
+
+/*hot-topics*/
+#topic-list {
+    width: 500px;
+    padding: 5px;
+    border: 1px solid black;
+    background: darkolivegreen;
+    float: right;
+}
+
+/*mid-screen*/
+#mid-screen {
+    margin: 0px auto;
+    max-width: 1050px;
+}
+
+/*avater-screen*/
+#avater-screen  {
+    background: salmon;
+    height: 150px;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*avater-item*/
+.avater-item    {
+    align-self: auto;
+    width: 150px;
+}
